@@ -7,7 +7,7 @@ To install the paginator use the following command;
 composer require onemustwork/paginator
 ```
 
-### Paginating
+### Paginator
 To create a new paginator;
 ```php
 $paginator = new Paginator($items, 100, 1, 50);
